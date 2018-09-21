@@ -21,9 +21,9 @@
         'project',
     ],
     'data': [
-        'security/ir.model.access.csv',
-        'task_alert_view.xml',
-        'task_alert_cron.xml',
+        #'task_alert_view.xml',
+        #'task_alert_cron.xml',
+        #'security/ir.model.access.csv',
     ],
     'demo': [],
     'installable': True,
